@@ -4,6 +4,14 @@
 
 ClimateTB is a powerful Python package designed for preprocessing and visualizing climate data. This tutorial will guide you through the main features and usage of ClimateTB.
 
+
+
+
+**Check hw4.ipynb** (A homework examplein Notre Dame University: Applied Atmosphere) for more tutorials.
+
+
+
+
 ## Installation
 
 To install ClimateTB, you can use pip:
